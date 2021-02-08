@@ -1,13 +1,12 @@
 My name is Jang
 I am very rich
-<<<<<<< HEAD
 
 
 
 T
 T
 
-=======
->>>>>>> 0f0915da01d7ac983008206d3fda450e5818b35e
+
+
 
 I Know he is rich
